@@ -1,4 +1,4 @@
-#Intro
+#Mint-Parser
 I use the personal budgeting software [Mint](http://mint.com) (made by Intuit) and I wanted a way to access and download my net worth easily. This is a simple python script that can login to your Mint account for you, refresh and retrieve your net worth, and save it in a CSV file. 
 
 #Requirements:
